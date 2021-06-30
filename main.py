@@ -146,8 +146,7 @@ def main():
             c = input("Please enter y for yes or n for no: ")
         if c == "y":
             start_game()
-        else:
-            print("Thanks for playing!")
+    print("Thanks for playing!")
 
 if __name__ == '__main__':
     main()
